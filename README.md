@@ -1,5 +1,5 @@
-# Platformo Maker
-Platformo Maker Privacy Policy
+# Platformo Maker Pixel Edition
+Platformo Maker Pixel Edition Privacy Policy
 
 The user can choose to connect to the game by using his google play account through Unity Gaming Services SDK, no other informations are required.
 The player's progress and creations will be saved but not shared without the user's conscent.
